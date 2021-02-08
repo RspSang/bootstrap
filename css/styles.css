@@ -26,6 +26,7 @@ h2 {
 h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
+    font-size: 1.5rem;
 }
 
 p {
@@ -147,4 +148,35 @@ p {
         width: 50%;
     }
     
+}
+
+/* cta */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+.cta-heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.btn-cta {
+    margin-top: 2rem;
+}
+
+/* footer */
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.footer-icon {
+    letter-spacing: .5rem;
+    margin-bottom: 3rem;
 }
